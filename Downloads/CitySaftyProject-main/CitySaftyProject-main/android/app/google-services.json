@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90969137703",
+    "project_id": "city-safety-b570f",
+    "storage_bucket": "city-safety-b570f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90969137703:android:d1114d4d92897a5e20a402",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90969137703-56r6tk821hnbbm7lesq4n02mnhs87bhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "4df6d53fcf04bc344f751ca23944b40af1bff5fe"
+          }
+        },
+        {
+          "client_id": "90969137703-kstbdu5l6s30dnoodn24noa6ug2ii5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmxRkDHOkavL-zOl-9pzvSE90D2hvLpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90969137703-kstbdu5l6s30dnoodn24noa6ug2ii5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
