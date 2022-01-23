@@ -60,9 +60,6 @@ import 'dart:developer';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:location/location.dart';
-import 'emergency_map.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
